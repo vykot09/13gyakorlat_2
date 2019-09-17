@@ -1,0 +1,25 @@
+html {
+
+    border: 1px solid red;
+}
+body {
+    width: 500px;
+    height: 150px;
+    background-image: url('snow.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 100px;
+    border: 1px solid black;
+    background-attachment: fixed;
+    margin: 50px;
+    overflow: scroll;
+}
+#par {
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    text-indent: 100px;
+    text-shadow: 3px 3px red;
+
+}
+.oszt {
+    text-align: center;
+}
